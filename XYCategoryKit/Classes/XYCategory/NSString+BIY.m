@@ -369,9 +369,6 @@
 }
 
 
-
-
-
 //加
 - (NSString *)calculateByAdding:(NSString *)stringNumer
 {
