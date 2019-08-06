@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # XYCategoryKit
 
 [![CI Status](https://img.shields.io/travis/554960766@qq.com/XYCategoryKit.svg?style=flat)](https://travis-ci.org/554960766@qq.com/XYCategoryKit)
@@ -26,4 +27,5 @@ pod 'XYCategoryKit'
 
 ## License
 
-XYCategoryKit is available under the MIT license. See the LICENSE file for more info.
+
+# XYCategoryKit
