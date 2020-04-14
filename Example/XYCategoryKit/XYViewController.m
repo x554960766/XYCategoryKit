@@ -7,7 +7,7 @@
 //
 
 #import "XYViewController.h"
-
+#import "XYCategoryKit-Prefix.pch"
 @interface XYViewController ()
 
 @end
